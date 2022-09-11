@@ -1,0 +1,135 @@
+body
+{
+    background-color: black;
+}
+  
+  
+  .app_heading
+  {
+    color: rgb(254, 251, 251);
+  }
+  .nav_bar
+  {
+    background-color:black ;
+  }
+  .container-fluid
+  {
+    height: 200px;
+    width: 100%;
+    background-color: ;
+
+  }
+  .cont_heading1
+  {
+    color:rgb(255, 255, 255) ;
+    text-align: center;
+    margin-top: 20%;
+  }
+  #nav_bottom
+  {
+    height: 20px;
+    background-color: rgb(241, 238, 238);
+    
+  }
+  .square
+  {
+    height: 8px;
+    width: 80px;
+    background-color: rgb(91, 89, 89);
+    margin: auto;
+    border-radius: 30px;
+
+  }
+  #page2
+  {
+    background-color: rgb(255, 255, 255);
+    width: 98%;
+    border-radius: 8px;
+    margin-top: 80px;
+    height: 500px;
+  }
+  #page2_card
+  {
+    margin-top: 80px;
+  }
+  #Cards
+  {
+    margin-left: 22%;
+  }
+  .card
+  {
+    border-radius: 15px;
+    background-color: rgb(202, 199, 199);
+  }
+  .card-img-top
+  {
+    height: 150px;
+  }
+  .card-body
+  {
+    background-color: rgb(93, 91, 91);
+    width: 100%;
+  }
+  .card-text
+  {
+    color: white;
+  }
+  
+  .btn
+  {
+    margin-top: 30px;
+    margin-left: 25%;
+    width: 200px;
+    background-color: black;
+   
+  }
+
+  #post
+  {
+    
+    background-color: rgb(255, 255, 255);
+    width: 98%;
+    border-radius: 8px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+  }
+  #post_Recentcoments
+  {
+    background-color: rgb(255, 255, 255);
+    width: 98%;
+    border-radius: 8px;
+    margin-top: 30px;
+    height: 100px;
+  }
+  #post_categories
+  {
+    background-color: rgb(255, 255, 255);
+    width: 98%;
+    border-radius: 8px;
+    margin-top: 30px;
+    height: 250px;
+    margin-bottom: 150px;
+  }
+  .post_heading
+  {
+    margin-top: 10px;
+  }
+  #last_container
+  {
+    height: 120px;
+    color: yellow; 
+    text-align: center; 
+    margin-top: 100%;
+    border: rgb(197, 241, 19) 10px;
+    background-color: aquamarine;
+  }
+ #Bottom_msg
+  {
+    
+    margin-bottom: 50px;
+  }
+  .bottom_msg
+  {
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
